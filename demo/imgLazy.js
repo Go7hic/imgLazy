@@ -203,4 +203,4 @@ function throttle(fn, minDelay) {
   }
 }
 
-export default Blazy
+// export default Blazy

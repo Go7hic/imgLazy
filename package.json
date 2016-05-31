@@ -1,0 +1,23 @@
+{
+  "name": "imglazy",
+  "version": "1.0.0",
+  "description": "a img lazy load script by pure JavaScrip",
+  "main": "imgLazy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyygtfx/ImgLazy.git"
+  },
+  "keywords": [
+    "img",
+    "lazyload"
+  ],
+  "author": "Go7hic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dyygtfx/ImgLazy/issues"
+  },
+  "homepage": "https://github.com/dyygtfx/ImgLazy#readme"
+}
