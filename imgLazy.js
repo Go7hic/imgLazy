@@ -202,5 +202,3 @@ function throttle(fn, minDelay) {
     fn.apply(images, arguments)
   }
 }
-
-export default Blazy
