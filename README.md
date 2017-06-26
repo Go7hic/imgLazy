@@ -31,4 +31,4 @@ a img lazy load script by pure JavaScrip
 
 ## DEOM
 
-http://dyygtfx.github.io/ImgLazy/demo/index.html
+http://dyygtfx.github.io/imgLazy/demo/
