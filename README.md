@@ -1,4 +1,7 @@
 # ImgLazy
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dyygtfx/imgLazy.svg)](https://greenkeeper.io/)
+
 a img lazy load script by pure JavaScrip
 
 ## Usage
